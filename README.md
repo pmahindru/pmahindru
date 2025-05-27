@@ -1,50 +1,79 @@
-<h1 align="center"><img src="https://cdn3.emoji.gg/emojis/5441-penguhii.gif" width="35px" height="35px" alt="JettHello"> Hey! Nice to see you.</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8B4FE,100:90E0EF&height=200&width=1600&section=header&text=Hey%20there!%20I'm%20Pranav%20👋&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20Tech%20Universe%20🚀&descAlignY=60&animation=fadeIn&textColor=000000&descColor=000000" />
 
-<p>I'm Pranav, I am a Full Stack Developer <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76118uje4qxqljaaqbcerpbalk68smrpvoofd7vah52t&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30"> currently in Halifax, Nova Scotia. </p>
-<h2>Things I code with</h2>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=plastic&logo=svelte&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=plastic&logo=nestjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=plastic&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=plastic&logo=Node.js&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAzcTV4YXhsdXZwZGNjcnJ0ZjltaGIwZm9pNmI2emhxZmp5YXM2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="250px" />
 </p>
 
-### 👨‍💻 &nbsp;About Me :
+<h3 align="center">🙌 I'm Pranav Mahindru — Full Stack Dev, Creator, & Lifelong Learner</h3>
 
-- 🔭 I’m working on developing the frontend and backend of web applications, mobile apps and websites to expand my skills.
-- ⚡ In my free time I solve problems on hackerrank and leetcode.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=%E2%9A%99%EF%B8%8F+Building+Robust+Backends+%26+Slick+Frontends;%F0%9F%8E%A8+Loving+Minimal+UI+and+Maximum+Performance;%F0%9F%92%A1+Driven+by+Clean+Code+and+Curiosity" alt="Typing SVG" />
+</p>
 
-<h3>Where to find me</h3>
-<p>
-   <a href="https://www.linkedin.com/in/pmahindru/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
+---
+
+### 🧠 &nbsp; About Me
+
+- 🏙️ Living in Halifax, Nova Scotia 🌊
+- 🌐 I build full-stack apps, scalable APIs, mobile experiences, and microservices
+- 🛠️ Currently working with modern frameworks & tools to create beautiful and powerful apps
+- 🔍 In my downtime, I explore open-source projects & challenge myself with LeetCode and HackerRank
+
+---
+
+### 🧰 &nbsp; My Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=svelte" title="Svelte" />
+  <img src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />
+</p>
+
+---
+
+### 📊 &nbsp; GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmahindru&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmahindru&theme=tokyonight&hide_border=true&border_radius=15" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmahindru&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="150px"/>
+</p>
+
+---
+
+### 📫 &nbsp; Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pmahindru/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
   <a href="https://github.com/pmahindru" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://web.cs.dal.ca/~mahindru" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-8A2BE2.svg?&style=for-the-badge" />
+
+  <a href="https://pranavmahindru.com/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+
+  <a href="https://pranavmahindru.medium.com/" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+
+  <a href="https://calendly.com/pranavmahindru-work/30min" target="_blank">
+    <img alt="Calendly" src="https://img.shields.io/badge/Book%20a%20Chat-00A2FF?style=for-the-badge&logo=calendar&logoColor=white" />
   </a>
 </p>
-
-<!--
-**pmahindru/pmahindru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
