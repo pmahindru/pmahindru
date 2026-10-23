@@ -9,7 +9,7 @@
 <a href="https://pranavmahindru.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/WRITING-101015?style=for-the-badge&logo=medium&logoColor=E9CD93" /></a>
 <a href="https://calendly.com/pranavmahindru-work/30min"><img alt="Book a conversation" src="https://img.shields.io/badge/BOOK_A_CHAT-101015?style=for-the-badge&logo=googlecalendar&logoColor=E9CD93" /></a>
 
-<br /><br />
+
 
 <img alt="Animated skills and interests" src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=19&duration=3000&pause=1200&color=D6B675&center=true&vCenter=true&width=900&height=55&lines=Engineering+beautiful+interfaces+%26+reliable+systems;React+%7C+TypeScript+%7C+Node.js+%7C+AWS;Exploring+AI+agents%2C+RAG+and+system+design;Turning+complex+problems+into+simple+products" />
 
