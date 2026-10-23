@@ -85,18 +85,13 @@ Previously, I worked on full-stack features, developer tools, and cloud infrastr
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pmahindru&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0C0C13&amp;title_color=E8C88A&amp;text_color=DFDCE7&amp;icon_color=A88AF7&amp;rank_icon=github" />
-  <img width="49%" alt="GitHub profile statistics" src="https://github-readme-stats.vercel.app/api?username=pmahindru&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F6F0E5&amp;title_color=7D5719&amp;text_color=27202B&amp;icon_color=6946A2&amp;rank_icon=github" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=pmahindru&amp;hide_border=true&amp;background=0C0C13&amp;ring=E5BE78&amp;fire=A88AF7&amp;currStreakLabel=E5BE78&amp;sideLabels=DFDCE7&amp;dates=A9A1B3" />
-  <img width="49%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=pmahindru&amp;hide_border=true&amp;background=F6F0E5&amp;ring=9D6B20&amp;fire=7552AF&amp;currStreakLabel=805C23&amp;sideLabels=27202B&amp;dates=615866" />
-</picture>
+<img width="49%" alt="GitHub profile statistics" src="https://github-readme-stats.vercel.app/api?username=pmahindru&theme=dark&hide_border=true&border_radius=6.7&timezone=AST&short_numbers=true&card_width=550&card_height=211&type=png" />
+
+<img width="49%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=pmahindru&theme=dark&hide_border=true&border_radius=6.7&timezone=AST&short_numbers=true&card_width=550&card_height=195&type=png" alt="GitHub Streak" />
 
 <br />
 
-<img width="49%" alt="Most common languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmahindru&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0C0C13&amp;title_color=E8C88A&amp;text_color=DFDCE7" />
+<img width="49%" alt="Most common languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmahindru&theme=dark&hide_border=true&border_radius=6.7&timezone=AST&short_numbers=true&card_width=550&card_height=195&type=png" />
 
 </div>
 
