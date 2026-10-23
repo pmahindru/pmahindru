@@ -1,0 +1,33 @@
+name: Golden Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: golden-contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create dark and light snake animations
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: pmahindru
+          outputs: |
+            dist/github-snake-dark.svg?color_snake=%23E7BE73&color_dots=%230C0C13,%232D2441,%23594876,%239575AA,%23E5BE78
+            dist/github-snake-light.svg?color_snake=%239E6E22&color_dots=%23F6F0E5,%23E9DFD0,%23C9B899,%23B09B75,%238D682D
+
+      - name: Publish snake assets to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
